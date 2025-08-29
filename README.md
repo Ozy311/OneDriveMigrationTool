@@ -314,6 +314,19 @@ Warning: File exceeds SharePoint limit (277MB > 250MB)
 3. **Dry Run Mode**: Preview operations without executing
 4. **Log Files**: Check CSV logs for detailed error information
 
+## 📚 Documentation
+
+This tool includes comprehensive documentation for all users:
+
+- **[Documentation Index](Documentation-Index.md)** - Complete guide to all documentation
+- **[API Documentation](API-Documentation.md)** - Technical reference for developers
+- **[Function Reference](Function-Reference.md)** - Quick reference guide
+- **[Troubleshooting Guide](Troubleshooting-Guide.md)** - Issue resolution and diagnostics
+- **[Best Practices Guide](Best-Practices-Guide.md)** - Enterprise deployment strategies
+- **[Example Usage](Example-Usage.ps1)** - Practical examples and commands
+
+**New to the tool?** Start with the [Documentation Index](Documentation-Index.md) to find the right guide for your needs.
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please:
